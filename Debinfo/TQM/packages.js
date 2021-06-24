@@ -181,9 +181,9 @@ $(document).ready(function () {
     })
 
     .fail(function () {
-        $(".package-error").text("An error occurred while retrieving package info!").css("display", "block");
+        $(".package-error").text("Đã xảy ra lỗi khi truy xuất thông tin gói!").css("display", "block");
         $(".package-info").css("display", "none");
-        $(".package-name").text("Repository Error");
+        $(".package-name").text("Lỗi kho lưu trữ");
         return;
     });
 
