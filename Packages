@@ -1,0 +1,157 @@
+Package: com.ongcenh.appshacks
+Architecture: iphoneos-arm
+Version: 4.5-3
+Section: Tweaks
+Maintainer: @ongcenh
+Installed-Size: 6228
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./DEB/com.ongcenh.appshacks_4.5-3_iphoneos-arm.deb
+Size: 3149680
+MD5sum: e4551dc713c5f759af188328a89e7c61
+SHA1: 7f6447eda13d19d57d0c2bbda03f47a56b7a521b
+SHA256: 6d6e59423c3305dc8db345848eb56d5a199f7aa6d05365750d5ac1aba8ac9113
+SHA512: 81af86be19b74f4135b119283cab7cf96436fb091d84f224c67cba3dc99618bb880f42e005dad125a46cd15177c59ab8eb5499d25a56a642053b9025f160b2dd
+Description: Kích hoạt bản quyền cho các ứng dụng trả phí.
+Name: Apps Hacks
+Author: hmodei96
+Depiction: https://ongcenh.github.io/Debinfo/appshacks/?p=info
+SileoDepiction: https://minhhi-store.github.io/Debinfo/appshacks/?p=info
+
+Package: com.ongcenh.diary
+Architecture: iphoneos-arm
+Version: 1.0-2
+Section: Tweaks
+Maintainer: @ongcenh
+Installed-Size: 5480
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.mrgcgamer.libgcuniversal, com.peterdev.libpddokdo
+Conflicts: hi.my.name.is.ubik.kalm, com.peterdev.grupi
+Replaces: love.litten.diary
+Filename: ./DEB/com.ongcenh.diary_1.0-2_iphoneos-arm.deb
+Size: 2853566
+MD5sum: 78a13a9df2535c98ccba0397f87fd456
+SHA1: 6db2636b432f98bec00ed0153133f6fcdbb200f7
+SHA256: 92e50e58285beac71e6f324156bf028488d663eb5046337659e95b4ae44b85a5
+SHA512: ad6f161b981006964992e74f2eef71138eaa0e56a0e9bd6f42096f6dcc5ca13d7123b642d75cea9e88914b276144ddaafe51beaba81f4760fea64550cb244e00
+Description: Màn hình khoá theo kiểu Windows 10 cho iOS.
+Name: Diary
+Author: Litten
+Depiction: https://ongcenh.github.io/Debinfo/diary/?p=info
+SileoDepiction: https://minhhi-store.github.io/Debinfo/diary/?p=info
+
+Package: com.ongcenh.iconrepo
+Architecture: iphoneos-arm
+Version: 1.0
+Essential: yes
+Section: System
+Maintainer: @ongcenh
+Filename: ./DEB/com.ongcenh.iconrepo_1.0_iphoneos-arm.deb
+Size: 49980
+MD5sum: 3eac4c6c9ecfc1abfe0b03e46ccfd37b
+SHA1: ff443fbf7b7c97b23364993f9b8631eef43d1937
+SHA256: 26246e0b2ba6e3a36b2f013fe5859008b1c3c24c49b41ebd15ed6049ac3cf395
+SHA512: 0b87df1e4971608529ea5de99cd0f6c242e70f7c24ea23deb4aa5625fc9ddb8ca7b5e1112373ec944d09e574f60321c4758f31830350c3c2617452f807522e05
+Description: Biểu tượng Cydia cho kho lưu trữ Ông Cễnh 😎
+Name: Icon Repo
+Author: @ongcenh
+Depiction: https://ongcenh.github.io/Debinfo/iconrepo/?p=info
+SileoDepiction: https://minhhi-store.github.io/Debinfo/iconrepo/?p=info
+Icon: file:///Applications/Cydia.app/Sections/Hacks.png
+
+Package: com.ongcenh.lpmb
+Architecture: iphoneos-arm
+Version: 1.40.1.2
+Section: Hacks
+Maintainer: @ongcenh
+Installed-Size: 9344
+Depends: mobilesubstrate
+Filename: ./DEB/com.ongcenh.lpmb_1.40.1.2_iphoneos-arm.deb
+Size: 2419104
+MD5sum: 4083fa483d128489e6d314778478160a
+SHA1: eb10ad314d113e0ffd650d5100630384cdc3f819
+SHA256: 2726bd3cc096f80f3f39d76677d86ba546c119c5e1235df8be672ab923f827d7
+SHA512: 20906485bdc504b493bdd13d94574592a62faa1eef958af51746c9be47b09e1d35e6510798cd003df6b28bb6e6a43cae4e63510ac2c653618fe014fe3af8c349
+Description: Hack Maps Liên Quân Mobile
+Name: Liên Quân Show Maps
+Author: Laxus
+Depiction: https://ongcenh.github.io/Debinfo/lpmb/?p=info
+SileoDepiction: https://minhhi-store.github.io/Debinfo/lpmb/?p=info
+
+Package: com.ongcenh.maple2
+Architecture: iphoneos-arm
+Version: 1.3.4-1
+Section: Tweaks
+Maintainer: @ongcenh
+Installed-Size: 42288
+Depends: mobilesubstrate, com.laughingquoll.prefixui, org.thebigboss.libcolorpicker, net.limneos.libbulletin
+Filename: ./DEB/com.ongcenh.maple2_1.3.4-1_iphoneos-arm.deb
+Size: 40445464
+MD5sum: 5a0c079ebf926fd078528aadcb258cd5
+SHA1: 0a168d0a43e991a5131c471337b499a959c31050
+SHA256: 9685fb7d1aceb8cc3d433876f89ce2cb1391ec0369243000340c568780a432cc
+SHA512: 957ba08725fd162cccde2072b3089c5c387c27d81acd290b589320cb4b18f66e68d81b155b7b725644c4bf15897c72ceec8b9b0b376671dc4f819cad9be57f5d
+Description: Biểu ngữ thông báo kết nối sạc như AirPower.
+Name: Maple 2
+Author: LaughingQuoll
+Depiction: https://ongcenh.github.io/Debinfo/maple2/?p=info
+SileoDepiction: https://minhhi-store.github.io/Debinfo/maple2/?p=info
+
+Package: com.ongcenh.safeshutdown
+Architecture: iphoneos-arm
+Version: 1.72-3
+Priority: optional
+Section: Tweaks
+Maintainer: @ongcenh
+Installed-Size: 13121
+Depends: mobilesubstrate, preferenceloader, firmware (>= 10.0), ws.hbang.common (>= 1.11)
+Conflicts: repo.kenhtao.safesdown
+Filename: ./DEB/com.ongcenh.safeshutdown_1.72-3_iphoneos-arm.deb
+Size: 10045720
+MD5sum: d35382de2d3cd20c832d75b9ed973797
+SHA1: 8c1e927bedcd840ca3c508166daf93a004aeea0d
+SHA256: 8a79ae65c3e7076f81ee65ef3db3b5581350547c0baa5369bb5e1de4312f71ce
+SHA512: 1fe3bea9b490ee8fcb1e59ae915a76e0105e67bb57487e11e1a616c410ed7c6648399d28331176431c9a9bd4439405f7e9f7873ad2aa5c783a59a120122c99b8
+Description: Tắt thiết bị của bạn một cách an toàn hơn!
+Tag: purpose::extension, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Name: SafeShutdown
+Author: Kurrt <dev@kurrt.com>
+Depiction: https://ongcenh.github.io/Debinfo/safeshutdown/?p=info
+SileoDepiction: https://minhhi-store.github.io/Debinfo/safeshutdown/?p=info
+
+Package: com.ongcenh.zoommapslqmb
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Hacks
+Maintainer: @ongcenh
+Depends: mobilesubstrate
+Filename: ./DEB/com.ongcenh.zoommapslqmb_1.0_iphoneos-arm.deb
+Size: 932128
+MD5sum: 1e69218234fbdc6910c25fe18556d316
+SHA1: 4943094c8171044b92d53714bfb3924f3f214579
+SHA256: d68126b2bbdf9fa9cc11c6bfdba42f1cd2ce48a23dfd346315510ea788c27724
+SHA512: dd5411bfc20fbd43c02211b87b0a27b42287512312fa1f646df95d091d838f412efbda23006be97790d8d9304155d89eabd374cff6c0d7024f95f97a42e9c106
+Description: Tăng tầm nhìn Liên Quân Mobile
+Name: Zoom Maps LQMB
+Author: Tàu Khựa
+Depiction: https://ongcenh.github.io/Debinfo/zoommapslqmb/?p=info
+ SileoDepiction: https://minhhi-store.github.io/Debinfo/zoommapslqmb/?p=info
+
+Package: con.ongcenh.maple
+Architecture: iphoneos-arm
+Version: 1.5.2
+Section: Tweaks
+Maintainer: @ongcenh
+Installed-Size: 77576
+Depends: mobilesubstrate, com.laughingquoll.prefixui, net.limneos.libbulletin, me.nepeta.libcolorpicker
+Replaces: repo.kenhtao.net.maple
+Filename: ./DEB/con.ongcenh.maple_1.5.2_iphoneos-arm.deb
+Size: 56885098
+MD5sum: 646b67fe95eadbf427a562c4fc83adc7
+SHA1: 249f1dfa2eb176382eac2c05414aea0a6540fcbe
+SHA256: 59c57ace2625643f1a27a877c358a7e1387bb8b8f8ea4276ad245af4757c4840
+SHA512: 36c69bb889ae9e08f18f00134e9259906c253bbb7bd59fa25cea09c42438a7327e76f3478151cda4cb31fafc716323921b53d01d47195514d95865cbed5a9055
+Description: Biểu ngữ thông báo kết nối sạc như AirPower
+Name: Maple
+Author: LaughingQuoll
+Depiction: https://ongcenh.github.io/Debinfo/maple/?p=info
+SileoDepiction: https://minhhi-store.github.io/Debinfo/maple/?p=info
+
